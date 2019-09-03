@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Rendani Mbuvha</title>
+    <link>/.github.io/tags/</link>
+      <atom:link href="/.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rendani Mbuvha 2019</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>ANFIS</title>
+      <link>/.github.io/tags/anfis/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/anfis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Inference</title>
+      <link>/.github.io/tags/fuzzy-inference/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/fuzzy-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithm</title>
+      <link>/.github.io/tags/genetic-algorithm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation</title>
+      <link>/.github.io/tags/optimisation/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Swarm</title>
+      <link>/.github.io/tags/particle-swarm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/particle-swarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>/.github.io/tags/renewable-energy/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind Power</title>
+      <link>/.github.io/tags/wind-power/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/wind-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>/.github.io/tags/neural-networks/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Relevence Determination</title>
+      <link>/.github.io/tags/automatic-relevence-determination/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/automatic-relevence-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>/.github.io/tags/bayesian/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Approximation</title>
+      <link>/.github.io/tags/gaussian-approximation/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/gaussian-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cannon&#39;s Algorithm</title>
+      <link>/.github.io/tags/cannons-algorithm/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/cannons-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Multiplication</title>
+      <link>/.github.io/tags/matrix-multiplication/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/matrix-multiplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computation</title>
+      <link>/.github.io/tags/parallel-computation/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/.github.io/tags/parallel-computation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
